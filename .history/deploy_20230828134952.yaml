@@ -13,4 +13,4 @@
         dest: "{{ dest_path }}"
         owner: ansadmin
         group: ansadmin
-        mode: 0655
+        mode: 064
